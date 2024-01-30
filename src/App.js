@@ -7,8 +7,8 @@ import StarRating from './components/star-rating';
 function App() {
   return (
     <div>
-      {/* <Accordian/> */}
       <StarRating />
+      <Accordian/>
     </div>
   );
 }
